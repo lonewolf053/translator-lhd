@@ -1,4 +1,4 @@
-# translator-lhd
+# Translator with python
 ## How to run
 <ol>
 <li>Open shell as admin</li>
