@@ -1,15 +1,17 @@
 # Translator with python
 ## How to run
-<ol>
-<li>Open shell as admin</li>
-<li>```bash
+
+Open shell as admin
+
+``bash
 pip install -r requirements.txt
-```</li>	
-<li>```bash
+```
+```bash
 python main.py
-```</li>
-<li>Enjoy using our translator tool!</li>
-</ol>
+```
+
+Enjoy using our translator tool!
+
 
 
 ## Inspiration
